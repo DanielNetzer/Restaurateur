@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurateur.CSharp", "Restaurateur.CSharp.csproj", "{F93E4ADD-65E8-C6D3-7312-0DB4D7D4D277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurateur.CSharp.Editor", "Restaurateur.CSharp.Editor.csproj", "{9A3EDB09-6B84-C692-CACA-483A82206C55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F93E4ADD-65E8-C6D3-7312-0DB4D7D4D277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93E4ADD-65E8-C6D3-7312-0DB4D7D4D277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93E4ADD-65E8-C6D3-7312-0DB4D7D4D277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93E4ADD-65E8-C6D3-7312-0DB4D7D4D277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A3EDB09-6B84-C692-CACA-483A82206C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3EDB09-6B84-C692-CACA-483A82206C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3EDB09-6B84-C692-CACA-483A82206C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3EDB09-6B84-C692-CACA-483A82206C55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
